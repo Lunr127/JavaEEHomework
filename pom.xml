@@ -6,6 +6,8 @@
     <modules>
         <module>Homework02</module>
         <module>Homework03</module>
+        <module>Homework04</module>
+
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
