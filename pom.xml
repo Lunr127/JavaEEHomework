@@ -7,6 +7,7 @@
         <module>Homework02</module>
         <module>Homework03</module>
         <module>Homework04</module>
+        <module>Homework04_maven</module>
 
     </modules>
     <parent>
